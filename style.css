@@ -39,7 +39,26 @@
         -ms-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
     }
-
+    .twitter{
+        background-color: #15202BAA;
+        align-items: center;
+        border: none;
+        color: white;
+        padding: 5px;
+        height: auto;
+        width:15%;
+        text-decoration: none;
+        display: flex;
+        font-size: 27px;
+        margin: 4px 2px;
+        border-radius: 12px;
+        margin: 0;
+        position: absolute;
+        top: 17%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
 
 
 
