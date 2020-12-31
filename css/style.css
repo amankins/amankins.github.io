@@ -24,6 +24,14 @@ body.fh5co-offcanvas {
   overflow: hidden;
 }
 
+.vastatic {
+  position:absolute;
+}
+.vastatic:hover {
+  opacity:0;
+}
+.vaactive{
+}
 a {
   color: #2da9d7;
   -webkit-transition: 0.5s;
@@ -40,13 +48,13 @@ a:active, a:focus {
 
 p, ul, ol {
   margin-bottom: 1.5em;
-  font-size: 15px;
-  color: #848484;
+  font-size: 23px;
+  color: #dddddd;
   font-family: "Roboto", Arial, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212121;
+  color: #d3d3d3;
   font-family: "Roboto", Arial, serif;
   font-weight: 400;
   margin: 0 0 20px 0;
